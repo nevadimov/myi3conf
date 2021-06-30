@@ -1,2 +1,2 @@
 # myi3conf
-i use sway)
+> i use sway)
